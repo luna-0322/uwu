@@ -1,0 +1,6 @@
+return{
+	Version="0.0.5",
+	Status=true,
+	Name="HCKS Hub",
+	Invite="ENnZ4W9eMN",
+}
