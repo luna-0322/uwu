@@ -1,5 +1,5 @@
 return{
-	Version="0.0.5",
+	Version="1.0.0-PRIVATE",
 	Status=true,
 	Name="HCKS Hub",
 	Invite="ENnZ4W9eMN",
